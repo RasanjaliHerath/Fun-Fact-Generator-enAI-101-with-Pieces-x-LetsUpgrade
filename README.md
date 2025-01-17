@@ -36,8 +36,8 @@ This is a simple Fun Fact Generator web application that allows users to view ra
 - Octopuses have three hearts.
 
 ## Screenshots
+![Uploading w.PNG…]()
 
-![output](https://github.com/user-attachments/assets/3e550e0e-de0d-46f7-ab0e-158c77763b7b)
 
 
 ## How to Run
