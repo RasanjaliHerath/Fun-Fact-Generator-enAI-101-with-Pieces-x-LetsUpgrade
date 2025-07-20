@@ -35,6 +35,9 @@ This is a simple Fun Fact Generator web application that allows users to view ra
 - There are more stars in the universe than grains of sand on Earth.
 - Octopuses have three hearts.
 
+  ## Demo
+  https://fun-factgenerator.netlify.app/
+
 ## Screenshots
 <img width="1366" height="644" alt="Screenshot (281)" src="https://github.com/user-attachments/assets/82d19ef2-9d4e-470c-8f0b-d0cc61fd787d" />
 <img width="1366" height="646" alt="Screenshot (282)" src="https://github.com/user-attachments/assets/86fe9392-a7a0-4626-a7cf-0a49d30bfc2f" />
